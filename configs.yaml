@@ -1,0 +1,5 @@
+school: 6 # 系号，大飞机请填36，如不确定系号可以参见school_trans.py
+name: 张三 # 姓名
+schoolid: SY2000000 # 学号，注意字母大写
+mobile: 11122233344 # 手机号
+campus: 0 # 校区，0为学院路，1为沙河
